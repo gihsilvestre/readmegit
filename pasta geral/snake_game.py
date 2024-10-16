@@ -72,5 +72,6 @@ while True:
     #fim do jogo#
     
     #the end# 
-
+    
+    alterando este arquivo para subir no gitlab 
     
